@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TMDb Fake</string>
+    <string name="title_recycler_1">What\'s Popular</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_movie_detail_view">MovieDetailView</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="play_trailer">Play Trailer</string>
+    <string name="user_score">User Score</string>
+    <string name="overview">Overview</string>
+    <string name="default_hint_search">Search TMDb</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="three_dots">...</string>
+    <string name="button_login">Sign In / Sign Up</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+    <string name="vietnam">Vietnam</string>
+    <string name="english">English</string>
+    <string name="language">Language</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="don_t_have_an_account">Don\'t have an account,</string>
+    <string name="full_name">full name</string>
+    <string name="email">email</string>
+    <string name="get_personalized_recommendations_and_keep_track_of_what_to_watch">Get personalized recommendations and keep track of what to watch</string>
+    <string name="add_list">Add to watch list</string>
+    <string name="your_watch_list">Your watchlist</string>
+    <string name="zero">0</string>
+    <string name="register">Register</string>
+    <string name="five">5</string>
+</resources>
